@@ -1,0 +1,13 @@
+
+---
+
+## 📦 requirements.txt
+
+```txt
+requests
+pandas
+numpy
+matplotlib
+streamlit
+apscheduler
+python-dotenv
